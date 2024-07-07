@@ -1,0 +1,57 @@
+body
+{
+    background-color: rgb(135, 197, 42);
+
+}
+
+p
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#confidence
+{
+    letter-spacing: -1.5;
+}
+
+#your_sketch
+{
+    letter-spacing: -1.5;
+}
+
+h1
+{
+    font-weight: bold;
+    color: blue;
+    background-color: wheat;
+    font-size: 40px;
+}
+
+#sketch_to_be_drawn
+{
+    color: red;
+}
+
+#score_h1
+{
+    background-color: rgb(135, 197, 42);
+    color: black;
+}
+
+#score
+{
+    margin-left: 100px;
+}
+
+#timer_h1
+{
+    background-color: rgb(135, 197, 42);
+    color: black;
+}
+
+#timer
+{
+    float: right;
+    margin-right: 100px;
+}
